@@ -4,12 +4,12 @@
         <meta charset="utf-8">
         <title>Recipes</title>
     </head>
-
+    <!-- Insert description of page for self use.-->
         <body>
             <h1> Healthy Recipes</h1>
-
+            <!--Insert description-->
             <ul>
-                
+
             </ul>
 
 
